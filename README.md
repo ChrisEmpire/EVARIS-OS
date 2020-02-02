@@ -40,7 +40,7 @@ If you have an educational software you would like to share, feel free to mentio
 
 Any suggestion is kindly taken
 
-To install the basic apps:
+To install the basic apps: (As EVARIS is based on Arch, the script also is meant for Arch Linux distributions only)
 1. Clone this repository
-2. Run chmod a+x EVARIS_Program_Installer.sh in the terminal of your linux distribution
-3. Then run sudo ./EVARIS_Program_Installer.sh and you're good to go. Make sure you have a stable internet connection.
+2. Run chmod a+x APPINSTALLER.sh in the terminal of your arch distribution
+3. Then run sudo ./APPINSTALLER.sh and you're good to go. Make sure you have a stable internet connection.
