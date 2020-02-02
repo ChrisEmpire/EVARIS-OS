@@ -21,6 +21,7 @@ The packages that EVARIS will have are:
     And yay that grabs items from the AUR
 
 The packages that EVARIS currently has are:
+
     • Office: LibreOffice
     • Programming: Scratch, Racket
     • Games: Gcompris
