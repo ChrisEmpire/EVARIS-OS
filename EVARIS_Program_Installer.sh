@@ -5,7 +5,7 @@ echo CAUTION: IF YOU WANT TO STOP THE INSTALLATION, USE Ctrl + C UNTIL EVERYTHIN
 sleep 2s
 echo Make sure you have a stable internet connection before installation
 echo If anything goes wrong, you can always re-execute the command
-echo Starting in 10 seconds
+echo Starting in 5 seconds
 sleep 5s
 sudo rm /var/lib/pacman/db.lck
 
@@ -49,7 +49,7 @@ echo Installing Krita for Art and Graphics
 yes | sudo pacman -S krita
 
 echo Installing Skype for Chat
-yaourt -S skypeforlinux-bin
+yay -S skypeforlinux-bin
 echo Installing Google Hangouts for Chat
 #Not made yet
 
