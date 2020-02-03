@@ -1,11 +1,11 @@
-# evaris-os
+# EVARIS
 README as of 2nd Feb, 2020.
 
-We, Team Klestron, are proud to present you EVARIS, an app launcher that launches educational tools and which is meant to be used by teachers and students for making teaching a better place.
+We, Team Klestron, are proud to present you EVARIS, an app launcher that launches educational tools and which is meant to be used by teachers and students for making teaching better.
 
-All EVARIS files are stored here. I'm not that experienced in coding so I also post sample projects here.
+Note: There's no APPINSTALLER.sh currently for the master branch. It is in the development branch.
 
-The help you can do to make this project grow strong is to make useful changes in the code. That's all I want from you guys.
+Suggestions for better code is highly appreciated :)
 
 The packages that EVARIS will have are:
 
