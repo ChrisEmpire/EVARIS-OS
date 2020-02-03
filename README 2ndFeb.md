@@ -40,7 +40,8 @@ If you have an educational software you would like to share, feel free to mentio
 
 Any suggestion is kindly taken
 
-To install the basic apps: (As EVARIS is based on Arch, the script also is meant for Arch Linux distributions only)
-1. Clone this repository
-2. Run chmod a+x APPINSTALLER.sh in the terminal of your arch distribution
-3. Then run sudo ./APPINSTALLER.sh and you're good to go. Make sure you have a stable internet connection.
+To use the app installer: (As EVARIS is based on Arch, the script also is meant for Arch Linux distributions only)
+1. Open up a terminal and clone this repository using git clone https://github.com/TheBluSalmon/EVARIS-OS
+2. Run cd EVARIS-OS/ShellScripts
+2. Run chmod a+x APPINSTALLER.sh
+3. Then run sudo ./APPINSTALLER.sh and you're good to go. Make sure you have a stable internet connection. To cancel a package use Ctrl + C to stop installing the current package
