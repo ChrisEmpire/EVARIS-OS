@@ -7,7 +7,6 @@ echo Make sure you have a stable internet connection before installation
 echo If anything goes wrong, you can always re-execute the command
 echo Starting in 5 seconds
 sleep 5s
-sudo rm /var/lib/pacman/db.lck
 
 echo Setting up AUR and installing yay in this machine
 mkdir EVARIS_git_and_other_files
